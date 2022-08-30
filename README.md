@@ -7,8 +7,8 @@ Here we will put some code and preliminary results of our different topics of re
 Currently, the following PhD students are working in this lab (alphabetical order).
 
 - Cristina Grieg
-- [Unchitta Kan](@unchitta)
+- [Unchitta Kan]()
 - [Jericho McLeod](@jerichomcleod)
-- [Valentin Vergara](@nitnelav27)
+- [Valentin Vergara](https://github.com/nitnelav27)
 - Frank Webb 
-- [Alan Zhang](@aa627523830)
+- [Alan Zhang](https://github.com/aa627523830)
